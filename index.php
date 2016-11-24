@@ -6,7 +6,7 @@
 
             <div class="main" role="main">
 
-                <h1 class="page-title">Chessman News</h1>
+                <h1 class="page-title">Warnes Anderton News</h1>
 
                 <div class="posts">
 
